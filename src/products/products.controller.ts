@@ -1,6 +1,5 @@
 import {
   Controller,
-  Param,
   ParseIntPipe
 } from '@nestjs/common';
 import { MessagePattern, Payload } from '@nestjs/microservices';
